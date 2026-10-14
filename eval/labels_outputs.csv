@@ -1,0 +1,9 @@
+route,week_of,expected_flagged,expected_note_id,why_hand_labeled
+Delhi-Jaipur,2024-11-11,Yes,,No note covers Delhi-Jaipur in Nov 2024 (N007 is May 2024 and says roads IMPROVED)
+Delhi-Jaipur,2024-11-18,Yes,,Same as above
+Ahmedabad-Mumbai,2025-01-20,No (justified),N002,N002: festival-week surcharge on this exact corridor dated this week
+Chennai-Bangalore,2025-02-24,No (justified),N001,N001: flood window Feb 24-Mar 8 covers this week
+Chennai-Bangalore,2025-03-03,No (justified),N001,Week Mar 3-9 overlaps the flood window (ends Mar 8)
+Chennai-Bangalore,2025-03-10,Yes,,Flood ended Mar 8; N009 says route back to normal -> rise after repairs is unexplained
+Chennai-Bangalore,2025-03-17,Yes,,N009 explicitly says conditions normal
+Mumbai-Pune,2025-09-15,Yes,,Only nearby note N006 says stable demand / no disruptions

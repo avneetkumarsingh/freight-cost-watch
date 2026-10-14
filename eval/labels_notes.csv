@@ -1,0 +1,11 @@
+note_id,can_justify_a_rise,scope,valid_from,valid_to,hand_reading
+N001,yes,Chennai-Bangalore,2025-02-24,2025-03-08,Flood detours raised cost; roads passable from Mar 9
+N002,yes,Ahmedabad-Mumbai,2025-01-20,2025-01-26,Festival-week surcharge (one week)
+N003,yes,All Routes,2025-05-05,2025-06-29,Diesel +5-7% nationwide; only explains small rises; effect is absorbed into 8-week baseline after ~8 weeks
+N004,no,,,,Toll plaza not on any route in this dataset
+N005,no,,,,Minor delays; costs not significantly affected
+N006,no,,,,Stable demand; no disruptions
+N007,no,,,,Road conditions improved
+N008,no,,,,No disruptions on corridor
+N009,no,,,,Route back to normal
+N010,no,,,,Compliance costs absorbed; no rate change

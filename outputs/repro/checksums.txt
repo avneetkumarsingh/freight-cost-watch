@@ -1,0 +1,4 @@
+7e25215cc31bcb4fc2fd4f8b7dbe8c7afb2bcf407d6c40e8d1dcb9c30384002e  outputs/repro/run1.csv
+7e25215cc31bcb4fc2fd4f8b7dbe8c7afb2bcf407d6c40e8d1dcb9c30384002e  outputs/repro/run2.csv
+7e25215cc31bcb4fc2fd4f8b7dbe8c7afb2bcf407d6c40e8d1dcb9c30384002e  outputs/repro/run3.csv
+REPRODUCIBLE: 3 runs identical (flags, numbers, cited notes, and reason text)
